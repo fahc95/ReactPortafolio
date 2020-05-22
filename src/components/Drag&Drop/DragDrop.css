@@ -1,0 +1,4 @@
+li.colocaraqui { background: #fff; border: dashed 1px #000;}
+  li.colocaraqui:before {content: "Colocar aquí"; color: #aeaeae;}
+  ul { list-style: none; margin:0; padding:0}
+  li {padding: 5px; background:#eee; cursor: move}

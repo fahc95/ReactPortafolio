@@ -1,0 +1,24 @@
+{
+  "name": "test-portafolio-react",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.0.0-0",
+    "@babel/plugin-proposal-class-properties": "^7.7.4",
+    "@fortawesome/fontawesome-free": "^5.12.0",
+    "parcel-bundler": "^1.12.4",
+    "react-places-autocomplete": "^7.2.1"
+  },
+  "scripts": {
+    "watch": "parcel public/index.html"
+  },
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "moment": "^2.24.0",
+    "re": "^0.1.4",
+    "react": "^16.0.0",
+    "react-datepicker": "^1.8.0",
+    "react-dom": "^16.12.0"
+  }
+}
