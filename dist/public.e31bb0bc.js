@@ -36528,17 +36528,17 @@ function (_Component) {
         "data-parent": "#accordionExample"
       }, _react.default.createElement("div", {
         className: "card-body"
-      }, _react.default.createElement("h4", null, "Colegio Hispano Nicarag\xFCense"), _react.default.createElement("p", {
-        className: "text-secondary"
-      }, " Bachiller en Ciencias y Letras"), _react.default.createElement("p", null, " Enero 2007 - Diciembre 2012")), _react.default.createElement("div", {
-        className: "card-body"
       }, _react.default.createElement("h4", null, "Universidad Americana - UAM"), _react.default.createElement("p", {
         className: "text-secondary"
       }, " Ingenier\xEDa en Sistemas de la Informaci\xF3n"), _react.default.createElement("p", {
         className: "text-secondary"
       }, " Ingenier\xEDa en Gerencia Inform\xE1tica"), _react.default.createElement("p", {
         className: "text-success"
-      }, " Cum Laudem"), _react.default.createElement("p", null, " Enero 2013 - Diciembre 2018")))), _react.default.createElement("div", {
+      }, " Cum Laudem"), _react.default.createElement("p", null, " Enero 2013 - Diciembre 2018")), _react.default.createElement("div", {
+        className: "card-body"
+      }, _react.default.createElement("h4", null, "Colegio Hispano Nicarag\xFCense"), _react.default.createElement("p", {
+        className: "text-secondary"
+      }, " Bachiller en Ciencias y Letras"), _react.default.createElement("p", null, " Enero 2007 - Diciembre 2012")))), _react.default.createElement("div", {
         className: "card"
       }, _react.default.createElement("div", {
         className: "card-header",
@@ -36559,17 +36559,17 @@ function (_Component) {
         "data-parent": "#accordionExample"
       }, _react.default.createElement("div", {
         className: "card-body"
-      }, _react.default.createElement("h4", null, "Seguros Am\xE9rica S.A - Nicaragua"), _react.default.createElement("p", {
+      }, _react.default.createElement("h4", null, "Tropical Music Nicaragua"), _react.default.createElement("p", {
         className: "text-secondary"
-      }, "Analista BPM"), _react.default.createElement("p", null, " Febrero 2018 - Abril 2019"), _react.default.createElement("ul", null, _react.default.createElement("li", null, "Desarrollo y mantenimiento de plataforma de gesti\xF3n de procesos de negocios utilizando el software ", _react.default.createElement("strong", null, "Bizagi")), _react.default.createElement("li", null, "Desarrollo de APIs en ", _react.default.createElement("strong", null, "C#"), " para el intercambio de datos entre una Base de datos ", _react.default.createElement("strong", null, "SQL Server 2012"), " y el sistema AS400 de la empresa. "), _react.default.createElement("li", null, "Asistencia T\xE9cnica en Bizagi."))), _react.default.createElement("div", {
+      }, "Full Stack Developer"), _react.default.createElement("p", null, " Diciembre 2019 - Abril 2020"), _react.default.createElement("ul", null, _react.default.createElement("li", null, " Desarrollo de sistema inteligente de compras desarrollado en ", _react.default.createElement("strong", null, " Node JS"), ", con integraci\xF3n a sistema ERP de la empresa mediante APIs que se conectan a una Base de Datos ", _react.default.createElement("strong", null, " SQL Server 2012 "), " y realiza migraci\xF3n de datos a ", _react.default.createElement("strong", null, " MongoDB "), " para futura escalabilidad de la aplicaci\xF3n"), _react.default.createElement("li", null, " Front End desarrollado con ", _react.default.createElement("strong", null, " HTML5 - Bootstrap -  Vanilla JavaScript ES6 "), " "), _react.default.createElement("li", null, " Actualmente realizando 'Refactoring' para ", _react.default.createElement("strong", null, " React JS "), " "))), _react.default.createElement("div", {
         className: "card-body"
       }, _react.default.createElement("h4", null, "Saucy Piaffe - Canada"), _react.default.createElement("p", {
         className: "text-secondary"
       }, "Front End Developer - Remoto"), _react.default.createElement("p", null, " Abril 2019 - Septiembre 2019"), _react.default.createElement("ul", null, _react.default.createElement("li", null, " Maquetaci\xF3n de p\xE1ginas con dise\xF1o responsivo utilizando ", _react.default.createElement("strong", null, " HTML5 - CSS3 - Bootstrap ")), _react.default.createElement("li", null, " Administraci\xF3n de cat\xE1logo de productos a trav\xE9s de WooCommerce - WordPress"), _react.default.createElement("li", null, "Asistencia y Resoluci\xF3n de Problemas"))), _react.default.createElement("div", {
         className: "card-body"
-      }, _react.default.createElement("h4", null, "Tropical Music Nicaragua"), _react.default.createElement("p", {
+      }, _react.default.createElement("h4", null, "Seguros Am\xE9rica S.A - Nicaragua"), _react.default.createElement("p", {
         className: "text-secondary"
-      }, "Full Stack Developer"), _react.default.createElement("p", null, " Diciembre 2019 - Abril 2020"), _react.default.createElement("ul", null, _react.default.createElement("li", null, " Desarrollo de sistema inteligente de compras desarrollado en ", _react.default.createElement("strong", null, " Node JS"), ", con integraci\xF3n a sistema ERP de la empresa mediante APIs que se conectan a una Base de Datos ", _react.default.createElement("strong", null, " SQL Server 2012 "), " y realiza migraci\xF3n de datos a ", _react.default.createElement("strong", null, " MongoDB "), " para futura escalabilidad de la aplicaci\xF3n"), _react.default.createElement("li", null, " Front End desarrollado con ", _react.default.createElement("strong", null, " HTML5 - Bootstrap -  Vanilla JavaScript ES6 "), " "), _react.default.createElement("li", null, " Actualmente realizando 'Refactoring' para ", _react.default.createElement("strong", null, " React JS "), " "))))))), _react.default.createElement("div", {
+      }, "Analista BPM"), _react.default.createElement("p", null, " Febrero 2018 - Abril 2019"), _react.default.createElement("ul", null, _react.default.createElement("li", null, "Desarrollo y mantenimiento de plataforma de gesti\xF3n de procesos de negocios utilizando el software ", _react.default.createElement("strong", null, "Bizagi")), _react.default.createElement("li", null, "Desarrollo de APIs en ", _react.default.createElement("strong", null, "C#"), " para el intercambio de datos entre una Base de datos ", _react.default.createElement("strong", null, "SQL Server 2012"), " y el sistema AS400 de la empresa. "), _react.default.createElement("li", null, "Asistencia T\xE9cnica en Bizagi."))))))), _react.default.createElement("div", {
         className: "col-sm-12 col-md-4"
       }, _react.default.createElement("div", {
         className: "card"
@@ -49274,7 +49274,7 @@ function (_Component) {
           var mapCenter = new _this2.google.maps.LatLng(4.624335, -74.064644);
           _this2.map = new _this2.google.maps.Map(document.getElementById('gmapContainer'), {
             center: mapCenter,
-            zoom: 15
+            zoom: 1
           });
           var marcador = new _this2.google.maps.Marker({
             position: mapCenter,
@@ -49583,7 +49583,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "49299" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "49380" + '/');
 
   ws.onmessage = function (event) {
     checkedAssets = {};

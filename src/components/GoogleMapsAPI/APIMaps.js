@@ -45,7 +45,7 @@ export default class APIMap extends Component {
                 const mapCenter = new this.google.maps.LatLng(4.624335, -74.064644);
                 this.map = new this.google.maps.Map(document.getElementById('gmapContainer'), {
                     center: mapCenter,
-                    zoom: 15
+                    zoom: 1
                 });
                 var marcador = new this.google.maps.Marker({ position: mapCenter, map: this.map })
             };

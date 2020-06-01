@@ -56,11 +56,7 @@ export default class CV extends Component {
                                 </div>
 
                                 <div id="collapseOne" className="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
-                                    <div className="card-body">
-                                        <h4>Colegio Hispano Nicaragüense</h4>
-                                        <p className='text-secondary'> Bachiller en Ciencias y Letras</p>
-                                        <p> Enero 2007 - Diciembre 2012</p>
-                                    </div>
+
                                     <div className="card-body">
                                         <h4>Universidad Americana - UAM</h4>
                                         <p className='text-secondary'> Ingeniería en Sistemas de la Información</p>
@@ -68,6 +64,13 @@ export default class CV extends Component {
                                         <p className='text-success'> Cum Laudem</p>
                                         <p> Enero 2013 - Diciembre 2018</p>
                                     </div>
+
+                                    <div className="card-body">
+                                        <h4>Colegio Hispano Nicaragüense</h4>
+                                        <p className='text-secondary'> Bachiller en Ciencias y Letras</p>
+                                        <p> Enero 2007 - Diciembre 2012</p>
+                                    </div>
+
                                 </div>
                             </div>
 
@@ -84,13 +87,13 @@ export default class CV extends Component {
                                 <div id="collapseTwo" className="collapse show" aria-labelledby="headingTwo" data-parent="#accordionExample">
 
                                     <div className="card-body">
-                                        <h4>Seguros América S.A - Nicaragua</h4>
-                                        <p className='text-secondary'>Analista BPM</p>
-                                        <p> Febrero 2018 - Abril 2019</p>
+                                        <h4>Tropical Music Nicaragua</h4>
+                                        <p className='text-secondary'>Full Stack Developer</p>
+                                        <p> Diciembre 2019 - Abril 2020</p>
                                         <ul>
-                                            <li>Desarrollo y mantenimiento de plataforma de gestión de procesos de negocios utilizando el software <strong>Bizagi</strong></li>
-                                            <li>Desarrollo de APIs en <strong>C#</strong> para el intercambio de datos entre una Base de datos <strong>SQL Server 2012</strong> y el sistema AS400 de la empresa. </li>
-                                            <li>Asistencia Técnica en Bizagi.</li>
+                                            <li> Desarrollo de sistema inteligente de compras desarrollado en <strong> Node JS</strong>, con integración a sistema ERP de la empresa mediante APIs que se conectan a una Base de Datos <strong> SQL Server 2012 </strong> y realiza migración de datos a <strong> MongoDB </strong> para futura escalabilidad de la aplicación</li>
+                                            <li> Front End desarrollado con <strong> HTML5 - Bootstrap -  Vanilla JavaScript ES6 </strong> </li>
+                                            <li> Actualmente realizando 'Refactoring' para <strong> React JS </strong> </li>
                                         </ul>
                                     </div>
 
@@ -108,13 +111,13 @@ export default class CV extends Component {
                                     </div>
 
                                     <div className="card-body">
-                                        <h4>Tropical Music Nicaragua</h4>
-                                        <p className='text-secondary'>Full Stack Developer</p>
-                                        <p> Diciembre 2019 - Abril 2020</p>
+                                        <h4>Seguros América S.A - Nicaragua</h4>
+                                        <p className='text-secondary'>Analista BPM</p>
+                                        <p> Febrero 2018 - Abril 2019</p>
                                         <ul>
-                                            <li> Desarrollo de sistema inteligente de compras desarrollado en <strong> Node JS</strong>, con integración a sistema ERP de la empresa mediante APIs que se conectan a una Base de Datos <strong> SQL Server 2012 </strong> y realiza migración de datos a <strong> MongoDB </strong> para futura escalabilidad de la aplicación</li>
-                                            <li> Front End desarrollado con <strong> HTML5 - Bootstrap -  Vanilla JavaScript ES6 </strong> </li>
-                                            <li> Actualmente realizando 'Refactoring' para <strong> React JS </strong> </li>
+                                            <li>Desarrollo y mantenimiento de plataforma de gestión de procesos de negocios utilizando el software <strong>Bizagi</strong></li>
+                                            <li>Desarrollo de APIs en <strong>C#</strong> para el intercambio de datos entre una Base de datos <strong>SQL Server 2012</strong> y el sistema AS400 de la empresa. </li>
+                                            <li>Asistencia Técnica en Bizagi.</li>
                                         </ul>
                                     </div>
 
